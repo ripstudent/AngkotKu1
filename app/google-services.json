@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638097255282",
+    "firebase_url": "https://angkotku-25b8a.firebaseio.com",
+    "project_id": "angkotku-25b8a",
+    "storage_bucket": "angkotku-25b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638097255282:android:da9d87a01213d640",
+        "android_client_info": {
+          "package_name": "com.example.yogadarma.angkotku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638097255282-lb3ka682gs5a3pbp3qsb4t92ndi3um9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yogadarma.angkotku",
+            "certificate_hash": "0b85ce58bee0e761e38c4f96a187988c02027a86"
+          }
+        },
+        {
+          "client_id": "638097255282-ep0rm2p512veon2cokdfpueb1v17c0lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuO54tfD1rh6SUeWEDu1Yvi2Ixnl-Tg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638097255282-ep0rm2p512veon2cokdfpueb1v17c0lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

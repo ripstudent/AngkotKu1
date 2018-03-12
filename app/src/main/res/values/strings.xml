@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AngkotKu</string>
+    <string name="title_activity_sopir_maps">AngkotKu</string>
+    <string name="title_activity_penumpang_maps">AngkotKu</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Track</string>
+    <string name="tab_text_2">Near me</string>
+    <string name="title_activity_my_location">My Location</string>
+
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="section_format">Hello World from section: %1$d</string>-->
+</resources>
